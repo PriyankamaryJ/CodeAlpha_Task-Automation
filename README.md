@@ -14,7 +14,7 @@ output file.
 
 ### ▶️ How to Run
 ```bash
-python3 task3_extract_emails.py
+python task3_extract_emails.py
 ```
 You'll be prompted for the input `.txt` file path and an output file name.
 
